@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! ✨
+
+I'm Karen Krieger, a Senior Technical Writer from Brazil 🇧🇷
+
+- 👩‍💻 I’m currently working @ VTEX
+- 🔭 I’m an ongoing code learner 
+- 🌱 I’m currently learning React
+- 📚 I'm an avid reader
 
 <!--
 **karenkrieger/karenkrieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
