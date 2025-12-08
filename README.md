@@ -6,6 +6,7 @@ I'm Karen Krieger, a Senior Technical Writer from Brazil 🇧🇷
 - 🔭 I’m an ongoing code learner 
 - 🌱 I’m currently learning React
 - 📚 I'm an avid reader
+- 🐈‍⬛ I have a black cat named Circe
 
 <!--
 **karenkrieger/karenkrieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
