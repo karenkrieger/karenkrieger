@@ -1,4 +1,4 @@
-![](https://favim.com/pd/s11/orig/7/772/7728/77282/aesthetic-luna-anime-Favim.com-7728251.jpg)
+<img src="https://raw.githubusercontent.com/karenkrieger/karenkrieger/refs/heads/main/sailor-moon-karen1.png" alt="drawing" width="600"/>
 
 ## Hi there! ✨
 
