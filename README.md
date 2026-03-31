@@ -1,10 +1,12 @@
+![](https://favim.com/pd/s11/orig/7/772/7728/77282/aesthetic-luna-anime-Favim.com-7728251.jpg)
+
 ## Hi there! ✨
 
 I'm Karen Krieger, a Senior Technical Writer from Brazil 🇧🇷
 
 - 👩‍💻 I’m currently working @ VTEX
 - 🔭 I’m an ongoing code learner 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React & Next.js
 - 📚 I'm an avid reader
 - 🐈‍⬛ I have a black cat named Circe
 
